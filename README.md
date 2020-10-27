@@ -3,7 +3,7 @@ Rythm based mobile game released on Android and ios.
 
 ![](SCREENSHOT-0001.png)
 
-![](xSCREENSHOT Ice Cave 1.png)
+![](xSCREENSHOT%20Ice%20Cave%201.png)
 
 ![](xSCREENSHOT Ice Cave Boss 1.png)
 
